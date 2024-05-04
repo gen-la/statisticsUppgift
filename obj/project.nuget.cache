@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "oFewA/J0DzlhxPjDdZ/gwY9yWvR1bVwpOXn06Kjhk8rnAJgu+l26KnIytaZT/VP0OxfLXNo2IcJMvo2EwdF/hQ==",
+  "dgSpecHash": "hZsdY+wQvrLze8fnoB120n7h3ZDxEpFMc3ybv9BTeIW40v1fCxcWtmzdWyt4zH1Rgjw63L7mWQKOrM45mcWJug==",
   "success": true,
-  "projectFilePath": "C:\\Users\\HP\\source\\repos\\Statistics\\Statistics.csproj",
+  "projectFilePath": "C:\\Users\\HP\\source\\repos\\Statistics\\statisticsUppgift\\Statistics.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\HP\\.nuget\\packages\\newtonsoft.json\\13.0.3\\newtonsoft.json.13.0.3.nupkg.sha512"
   ],
